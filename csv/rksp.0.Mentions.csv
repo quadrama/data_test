@@ -1,0 +1,6 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+test,rksp.0,426,1144,der_prinz,,,ich,der_prinz
+test,rksp.0,426,1144,der_prinz,,,Emilia,emilia
+test,rksp.0,426,1144,der_prinz,,,Emilia Galotti,emilia
+test,rksp.0,1178,1521,der_prinz,,,Marchese Marinelli,marinelli
+test,rksp.0,2581,2649,der_prinz,,,Conti,conti
